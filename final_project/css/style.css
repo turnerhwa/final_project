@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Literata:400,400i,500,500i,700,700i&display=swap');
+
+body {
+  background-color:  black;
+  color: white;
+  font-family: 'Literata', serif;
+}
+
+h1,h2,p {
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 30px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 15px;
+}
+
+li {
+  display: inline-block;
+  margin: 15px;
+}
